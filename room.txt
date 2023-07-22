@@ -1,0 +1,18 @@
+?ouble bed|2|3000|
+?ingle bed|2|4000|
+?ouble bed|4|3500|
+?ouble bed|2|3500|
+Single bed|1|4000|
+?ouble bed|1|3500|
+Four bed|20|2000|
+Suite|2|10000|
+Luxury|20|5000|
+?ix bed|6|20000|
+Pent House|1|25000|
+Six bed|4|20000|
+?ouble bed|4|4000|
+?ouble bed|1|4000|
+?ouble bed|7|6000|
+Double bed|5|6000|
+?|2|
+|0|2|

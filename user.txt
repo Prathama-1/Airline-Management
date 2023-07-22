@@ -1,0 +1,4 @@
+9999999999|Bindhu|Bindhu@123|bindhu@gmail.com|9999 9999 9999|2022-12-31|
+8888888888|Chandana|Chandana@123|chandana@gmail.com|8888 8888 8888|2022-12-31|
+7777777777|Prathama|Prathama@123|prathama@gmail.com|7777 7777 7777|2022-12-31|
+9876543210|Sai|Sai@1234|sai@gmail.com|1234 5678 1234|2022-12-31|

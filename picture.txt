@@ -1,0 +1,11 @@
+3|Emirates|Bangalore|Abu Dabhi|10000|
+7|AirAsia|Bankok|Seoul|5000|
+10|IndiGo|Mumbai|Delhi|3000|
+24|JapanAirlines|Tokyo|Kyoto|8000|
+14|SpiceJet|Chennai|Bangalore|2000|
+19|AirGo|Kathmandu|Oslo|4000|
+21|Delta Airlines|New York|Los Angeles|2500|
+15|Air Canada|Toronto |Vancouver |1500|
+1|Singapore Airlines|Singapore |Sydney |4500|
+5|Lufthansa|Frankfurt |New York|5000|
+2|British Airways|London |New York|1800|

@@ -1,0 +1,8 @@
+Double bed|274|
+Single bed|76|
+Four bed|114|
+Suite|132|
+Luxury|147|
+Six bed|200|
+Pent House|180|
+|298|
